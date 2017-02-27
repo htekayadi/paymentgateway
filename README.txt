@@ -1,10 +1,10 @@
-# A Dummy Payment Gateway
+# Dummy Payment Gateway
 - Create a payment dummy gateway to simulate the order payment process, this will be started as another standalone ruby application
 - The dummy payment gateway will return status "ok" or "rejected"
 - 10% chance of failing payment (reject the payment)
 
 # Setup
-  1. Run the below command in console (terminal)to start the ecommerce application.
+  1. Run the below command in console (terminal) to start the ecommerce application.
   ```
   ./run
   ```
